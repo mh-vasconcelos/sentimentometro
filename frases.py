@@ -11,7 +11,13 @@ palavras_tristes = [
     "atolado", "sofrivel", "depressivo", "apatico", "acabando", "detonado", "meio_down", "sem_sorte",
     "ruim", "quebrado", "bagunca", "cheio_de_problema", "frustrante", "complicadinho", "tristeza_pura",
     "sem_tempo", "agoniado", "doido_demais", "sem_energia", "chateado", "pe_na_cova", "derrotinha",
-    "insuportavelzinho", "morrendo", "sobrecarregado", "sem_graca_nenhuma", "malzao", "acabado_da_vida"
+    "insuportavelzinho", "morrendo", "sobrecarregado", "sem_graca_nenhuma", "malzao", "acabado_da_vida", "mortificado", "arrasado", "esgotado", "exaurido", "podre", "sozinho", "abandonado", "desolado",
+    "desgostoso", "infeliz", "miseravel", "lamentavel", "doloroso", "sofrimento", "amargo", "amargurado",
+    "irritado", "furioso", "puto", "com_raiva", "frustrado", "decepcionado", "desapontado", "ansioso",
+    "preocupado", "tenso_novamente", "muito_ruim", "pessimo_dia", "dia_de_cao", "dia_dificil",
+    "complicado_demais", "horripilante", "assustador", "medonho", "monotono", "repetitivo",
+    "sem_esperanca", "sem_norte", "perdido", "sem_rumo", "falido", "no_fundo_do_poco", "na_merda",
+    "no_lixo", "lixo", "porcaria", "droga", "que_merda", "terrivel", "desgastado"
 ]
 
 palavras_felizes = [
@@ -27,7 +33,14 @@ palavras_felizes = [
     "deus_no_controle", "topster", "bao", "animadao", "tranquileba", "beleza", "maravilhindo",
     "empolgante", "delicioso", "alegria_pura", "vida_loka_boa", "abencoado_demais", "satisfatoriozinho",
     "chique", "deusebom", "megasuave", "okzao", "otimasso_mesmo", "felizona", "agradabilissimo",
-    "lindao", "bencao", "supimpa", "100%", "pleno", "to_bem", "zenzao", "felicidade_pura", "sucesso_total"
+    "lindao", "bencao", "supimpa", "100%", "pleno", "to_bem", "zenzao", "felicidade_pura", "sucesso_total",
+    "radiante", "brilhante", "iluminado", "energizado", "eletrico", "vibrante", "extase", "em_extase",
+    "euforico", "realizado", "satisfeito", "completo", "de_bem_com_a_vida", "nas_nuvens", "flutuando",
+    "voando", "vitoria", "vitorioso", "campeao", "incrivelmente_bom", "sensacional", "fenomenal",
+    "espetacular", "demais", "do_caralho", "foda", "muito_foda", "excelente", "magnifico", "glorioso",
+    "dia_de_gloria", "dia_lindo", "dia_de_sol", "ceu_azul", "relaxado", "descansado", "renovado",
+    "recarregado", "bateria_100", "grato", "muito_grato", "abencoado_por_deus", "coisa_boa", "que_bom",
+    "tudo_otimo", "tudo_maravilhoso", "paz_interior", "de_boa_na_lagoa", "suave_total", "sem_problemas"
 ]
 palavras_neutras = []
 frases_coach_felizes = [
