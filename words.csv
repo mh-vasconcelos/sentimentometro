@@ -1,13 +1,3 @@
 palavra,usuario,sentimento
-triste,matheus,1.0
-feliz,roniel,0.0
-desastre,roniel,1.0
-bad,roniel,1.0
-baguncado,matheus,1.0
-desgraca,gabriel,0.5
-amizade,thays,0.5
-felicidade,thays,0.0
-meio_bad,vinicius,0.5
-nem_nem,matheus,0.5
-desprezivel,matheus,0.5
-alegre,matheus,0.0
+desgraca,matheus,0.95
+sono,roniel,0.6
